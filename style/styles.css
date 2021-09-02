@@ -3,7 +3,7 @@ body {
     sans-serif;
 }
 .container {
-    max-width: 1090px;
+    max-width: 1300px;
     margin: 0 auto;
 }
 .header_li {
@@ -41,14 +41,16 @@ body {
 }
 
 .bg-button {
+   font-style: normal;
+   font-weight: bold;
    font-size: 36px;
    line-height: 49px;
    text-align: center;
    color: #162C38;
-    width: 420px;
-    background: #FFFFFF;
-    border: none;
-    border-radius: 5px;
+   width: 420px;
+   background: #FFFFFF;
+   border: none;
+   border-radius: 5px;
 }
 
 .bg-section2 {
